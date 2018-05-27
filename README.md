@@ -19,3 +19,5 @@ this package contain: *look at composer.json*
 ```
 
 #### See `example-crawl.php` and `example-db.php`.
+
+\*even this small package still needs a readme :-)
