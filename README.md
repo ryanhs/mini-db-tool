@@ -18,6 +18,19 @@ this package contain: *look at composer.json*
 }
 ```
 
+### var_dumper
+
+by symfony:
+```php
+// create a variable, which could be anything!
+$someVar = ...;
+
+dump($someVar);
+
+// dump() returns the passed value, so you can dump an object and keep using it
+dump($someObject)->someMethod();
+```
+
 #### See `example-crawl.php` and `example-db.php`.
 
 \*even this small package still needs a readme :-)
