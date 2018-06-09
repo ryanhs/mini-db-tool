@@ -4,6 +4,7 @@
         "vlucas/phpdotenv": "^2.4",
         "guzzlehttp/guzzle": "^6.3",
         "paquettg/php-html-parser": "^1.7",
-        "symfony/var-dumper": "^4.1"
+        "symfony/var-dumper": "^4.1",
+        "fostam/getopts": "^1.1"
     }
 }
